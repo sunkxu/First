@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1374746299710 1432 b38409fefce7242815bb3d918bba6c355771dc8c C:\Users\Administrator\AndroidStudioProjects\AndroidIdProject\AndroidId\build\classes\debug\com\sooclear\androidid\MainActivity.class
+1374746299720 415 b21a135d7b5f823c5c36c3445fde1f194735947a C:\Users\Administrator\AndroidStudioProjects\AndroidIdProject\AndroidId\build\classes\debug\com\sooclear\androidid\R$layout.class
+1374746299723 484 62d571cbc791930b98f1d14d9f5f1e6dd7631446 C:\Users\Administrator\AndroidStudioProjects\AndroidIdProject\AndroidId\build\classes\debug\com\sooclear\androidid\R$string.class
+1374746299724 443 bab5615dc0fdaf8419f42db356200cac97926ea4 C:\Users\Administrator\AndroidStudioProjects\AndroidIdProject\AndroidId\build\classes\debug\com\sooclear\androidid\R$style.class
+1374746299719 433 1060e62146b6457126157d326c02e85ced49d637 C:\Users\Administrator\AndroidStudioProjects\AndroidIdProject\AndroidId\build\classes\debug\com\sooclear\androidid\R$id.class
+1374746088700 419 d81301e1b8b6ac9b4df5b868a7557d966e9db6b4 C:\Users\Administrator\AndroidStudioProjects\AndroidIdProject\AndroidId\build\classes\debug\com\sooclear\androidid\R$drawable.class
+1374746088691 352 86c0f9678902fe1952450555cdde6cfb842c2f7d C:\Users\Administrator\AndroidStudioProjects\AndroidIdProject\AndroidId\build\classes\debug\com\sooclear\androidid\R$attr.class
+1374746088710 353 6f9412e2d37add00784e3cea42beea0b609ad51c C:\Users\Administrator\AndroidStudioProjects\AndroidIdProject\AndroidId\build\classes\debug\com\sooclear\androidid\BuildConfig.class
+1374746299721 400 66f008480edb6eb5e68be665e3aa2b174591da30 C:\Users\Administrator\AndroidStudioProjects\AndroidIdProject\AndroidId\build\classes\debug\com\sooclear\androidid\R$menu.class
+1374746088697 473 5f2c132c7e24f2b9f7b2eaa4bb6ec514c18529c9 C:\Users\Administrator\AndroidStudioProjects\AndroidIdProject\AndroidId\build\classes\debug\com\sooclear\androidid\R$dimen.class
+1374746299726 717 5134e12249ab6999fb8c54758593060ca745deb9 C:\Users\Administrator\AndroidStudioProjects\AndroidIdProject\AndroidId\build\classes\debug\com\sooclear\androidid\R.class
+1369432936000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d F:\Develop Tool\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jar
